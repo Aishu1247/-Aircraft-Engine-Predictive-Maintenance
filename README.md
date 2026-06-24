@@ -71,7 +71,31 @@ streamlit run app.py
 ```
 
 ---
+## 📸 Project Screenshots
 
+### Dashboard Overview
+
+![Dashboard](images-dashboard.png)
+
+---
+
+### Engine Health Analysis
+
+![Health Analysis](images-health-analysis.png)
+
+---
+
+### Uploaded Engine Prediction
+
+![Upload Prediction](images-upload-prediction.png)
+
+---
+
+### Sensor Trend Analysis
+
+![Sensor Trend](images-sensor-trend.png)
+
+---
 ## 👨‍💻 Author
 
 Built by Aishwarya Manoj Nair as an end-to-end Machine Learning and Streamlit project.
